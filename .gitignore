@@ -23,3 +23,8 @@ packages/
 # OS generated
 .DS_Store
 Thumbs.db
+
+# Large binary files (exceed GitHub 100MB limit)
+dist/standalone/HearingAI.exe
+HearingAI-FrequencyAnalysis-v3.0/HearingAI.exe
+HearingAid-Standalone-v2.0.zip
